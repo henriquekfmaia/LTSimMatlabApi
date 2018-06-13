@@ -1,3 +1,7 @@
+# Matlab files
+*.m
+*.mat
+
 # Prerequisites
 *.d
 
